@@ -1,0 +1,6 @@
+[16-Jan-2018 20:20:30 America/New_York] PHP Notice:  Undefined variable: are in /home/advents/public_html/quote.php on line 108
+[16-Jan-2018 20:24:51 America/New_York] PHP Notice:  Undefined variable: mail in /home/advents/public_html/quote_test.php on line 188
+[16-Jan-2018 20:25:10 America/New_York] PHP Notice:  Undefined variable: mail in /home/advents/public_html/quote_test.php on line 188
+[16-Jan-2018 20:25:45 America/New_York] PHP Notice:  Undefined variable: mail in /home/advents/public_html/quote_test.php on line 188
+[16-Jan-2018 20:26:22 America/New_York] PHP Notice:  Undefined variable: mail in /home/advents/public_html/quote_test.php on line 188
+[16-Jan-2018 20:42:56 America/New_York] PHP Notice:  Undefined variable: are in /home/advents/public_html/quote.php on line 108
